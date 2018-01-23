@@ -13,5 +13,5 @@ So far it only implements a simple model of
 and validates it against output computed from HistFactory workspaces
 
 
-<img src="img/manual_1bin_55_50_7.png" alt="manual" width="200"/>
-<img src="img/hfh_1bin_55_50_7.png" alt="manual" width="200"/>
+<img src="img/manual_1bin_55_50_7.png" alt="manual" width="500"/>
+<img src="img/hfh_1bin_55_50_7.png" alt="manual" width="500"/>
