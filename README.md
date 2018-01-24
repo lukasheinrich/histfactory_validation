@@ -1,5 +1,9 @@
 # histfactory_validation
 
+## This was moved to a proper python package at https://github.com/lukasheinrich/pyhf
+
+
+
 The HistFactory p.d.f. template is per-se independent of its implementation in ROOT and sometimes, it's useful to be able to run statistical analysis outside
 of ROOT, RooFit, RooStats framework.
 
